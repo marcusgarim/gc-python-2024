@@ -35,21 +35,21 @@ Recursos Disponíveis: Acesso a materiais de apoio, tutoriais e links úteis par
 ## - Find ME! Mundo Planicie da Pythonlândia
 Responda as perguntas no campo abaixo, que elas são verificadas nas #Segundas.
 
-Qual meu filme favorito? :heavy_check_mark:
+Qual meu filme favorito?
 ```
 Resposta: Monty Python and the Holy Grail
 ```
-Qual planeta eu nasci? ❌
+Qual planeta eu nasci?
 ```
-Resposta: Exemplo errado 
+Resposta: Planície da Pythonlândia
 ```
 Qual meu tipo de pokemon favorito?
 ```
-Resposta:
+Resposta: Charmander
 ```
 Gosto de cidades populosas, sem ser SP qual outra posso morar?
 ```
-Resposta:
+Resposta: Curitiba ou Belo Horizonte
 ```
 
 ...
