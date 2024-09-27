@@ -5,6 +5,18 @@
 **Level Atual:** 1
 
 ---
+## Feedback exercícios
+
+- **Aula 01:**
+	- **Ex1:** NF
+	- **Ex2:** NF
+	- **Ex3:** NF
+- **Aula 02:**
+	- **Ex4:** NF
+	- **Ex5:** NF
+	- **Ex6:** NF
+
+---
 ## Conquistas
 
 
